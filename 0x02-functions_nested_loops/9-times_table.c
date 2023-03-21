@@ -3,7 +3,7 @@
 /**
  * times_table - Prints the 9mtimes table, starting with 0
  * Return: empty output
- * */
+ */
 
 void times_table(void)
 
@@ -38,4 +38,3 @@ void times_table(void)
 	_putchar('\n');
 	}
 }
-
