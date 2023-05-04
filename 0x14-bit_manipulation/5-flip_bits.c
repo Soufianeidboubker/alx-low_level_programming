@@ -10,7 +10,7 @@
  */
 unsigned int flip_bits(unsigned long int n, unsigned long int m)
 {
-	int k, count= 0;
+	int k, count = 0;
 	unsigned long int cur;
 	unsigned long int exclusive = n ^ m;
 
