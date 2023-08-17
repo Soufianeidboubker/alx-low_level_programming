@@ -1,12 +1,12 @@
 #include "lists.h"
 /**
- * s_dlistint - returns the s of all the data (n)
+ * sum_dlistint - returns the s of all the data (n)
  * of a doubly linked list
  *
  * @head: head of the list
  * Return: s of the data
  */
-int s_dlistint(dlistint_t *head)
+int sum_dlistint(dlistint_t *head)
 {
 	int s;
 
